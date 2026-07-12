@@ -8,7 +8,7 @@ AI-Based Sign Language Translator
 </p>
 
 
-
+<div align="center" >
 An AI-powered mobile application that translates sign language into text and speech in real time using Computer Vision and Machine Learning.
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
