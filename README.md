@@ -1,12 +1,5 @@
-assets/banner.png
 <p align="center">
   <img src="assets/banner.png" alt="SignBridge Banner" width="100%">
-</p>
-
-<h1 align="center">🤟 SignBridge</h1>
-
-<p align="center">
-AI-Based Sign Language Translator
 </p>
 
 <p align="center">
