@@ -1,6 +1,8 @@
-# 🤟 SignBridge
+<h1 align="center">🤟 SignBridge</h1>
 
-### AI-Based Sign Language Translator
+<p align="center">
+AI-Based Sign Language Translator
+</p>
 <p align="center">
   <img src="assets/banner.png" alt="SignBridge Banner" width="100%">
 </p>
