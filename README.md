@@ -3,10 +3,6 @@
 <p align="center">
 AI-Based Sign Language Translator
 </p>
-<p align="center">
-  <img src="assets/banner.png" alt="SignBridge Banner" width="100%">
-</p>
-
 
 <div align="center" >
 An AI-powered mobile application that translates sign language into text and speech in real time using Computer Vision and Machine Learning.
@@ -18,6 +14,12 @@ An AI-powered mobile application that translates sign language into text and spe
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hands-purple)
 
 </div>
+<p align="center">
+  <img src="assets/banner.png" alt="SignBridge Banner" width="100%">
+</p>
+
+
+
 
 ---
 
