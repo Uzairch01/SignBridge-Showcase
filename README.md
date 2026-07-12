@@ -1,15 +1,11 @@
+# 🤟 SignBridge
+
+### AI-Based Sign Language Translator
 <p align="center">
   <img src="assets/banner.png" alt="SignBridge Banner" width="100%">
 </p>
 
-<p align="center">
-An AI-powered mobile application that translates sign language into text and speech in real time using Computer Vision and Machine Learning.
-</p>
-<div align="center">
 
-# 🤟 SignBridge
-
-### AI-Based Sign Language Translator
 
 An AI-powered mobile application that translates sign language into text and speech in real time using Computer Vision and Machine Learning.
 
