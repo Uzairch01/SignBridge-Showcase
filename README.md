@@ -129,6 +129,6 @@ The source code, trained AI models, datasets, and implementation details are **n
 
 **Muhammad Uzair**
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: www.linkedin.com/in/muhammad-uzair-259083277
 
-Email: *(Add your email)*
+Email: uzairshafique934@gmail.com
